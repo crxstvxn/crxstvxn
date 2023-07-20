@@ -4,7 +4,10 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/dsdrgn21az1mrckw3rywuqyj3)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crxstvxn@outlook.com)
 
-![crxstvxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=crxstvxn&show_icons=true&theme=tokyonight)
+![crxstvxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=crxstvxn&show_icons=true&theme=gruvbox)
 
+### Tecnologias que eu utilizo!
 
-
+<div style="display: inline block" ><br/>
+      img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+</div>
